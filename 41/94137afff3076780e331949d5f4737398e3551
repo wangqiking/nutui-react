@@ -1,7 +1,21 @@
+src/types/spec/loading/base.ts
+  s_2623122ec93a9c::t_4955fd212209a5 1
+src/packages/loading/loading.tsx
+  s_2623122ec93a9c::t_4955fd212209a5 26-50
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.5.7",
   "base_commit_sha": "4194137afff3076780e331949d5f4737398e3551",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_2623122ec93a9c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a69fe848-27da-4d7c-8e98-4f10722b6d3f",
+        "model": "unknown"
+      },
+      "human_author": "ext.wangqi150 <664144354@qq.com>"
+    }
+  }
 }
