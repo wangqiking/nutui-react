@@ -1,0 +1,142 @@
+src/packages/progress/demo.taro.tsx
+  s_2623122ec93a9c::t_3a43517d8ae0ed 15,29,41,53,84-85
+src/packages/progress/__tests__/progress.spec.tsx
+  s_2623122ec93a9c::t_5ef1556e91cbf1 2,68-168
+src/packages/progress/progress.taro.tsx
+  s_2623122ec93a9c::t_35ab3d7ce02d55 285-286
+  s_2623122ec93a9c::t_295adb7a3fb1a6 46-47
+  s_2623122ec93a9c::t_d6d27690ebfa39 1-7,9,25-30,33-44,72-84,162,221,228-242,249-284,287-330,355-366,368-386,388-391,393-399
+  s_2bf2dd7bb9ae8a::t_1898439465dcbc 367,387,392
+  s_2623122ec93a9c::t_5936019d654ec4 10
+src/packages/progress/demo.tsx
+  s_2623122ec93a9c::t_b8e4f668fb014b 12,26,38,50,75-76
+src/packages/progress/doc.md
+  s_2bf2dd7bb9ae8a::t_306fc68bdeb712 85
+  s_2623122ec93a9c::t_109a2c4279e9ee 152,159-161
+  s_2bf2dd7bb9ae8a::t_099158c30e4e7b 151
+  s_2bf2dd7bb9ae8a::t_a54fdca16bf04c 126
+  s_2bf2dd7bb9ae8a::t_433d2c7298b6d0 156-158
+  s_2bf2dd7bb9ae8a::t_5bd45d0cfef254 114
+  s_2623122ec93a9c::t_0209657d0259fa 83-84,86-92,113,115-125,148-149,162-163
+  s_2623122ec93a9c::t_2ef4db7ade0f88 147,150,153-155
+src/styles/variables-daojia.scss
+  s_2623122ec93a9c::t_6c618fe3f6226e 1283,1287
+  s_2623122ec93a9c::t_26bd91a3d6b24c 1273
+  s_2623122ec93a9c::t_d4b02bae65460c 1274-1275,1288,1290-1293
+  s_2623122ec93a9c::t_35d706d6dda67a 1265,1267,1269-1270,1272,1285,1294-1297
+  s_2bf2dd7bb9ae8a::t_53ab591676b6ad 1266,1268
+  s_2bf2dd7bb9ae8a::t_77cb4c4aa6149e 1289
+  s_2623122ec93a9c::t_3c45c581eb639e 1271,1276,1278-1282,1284,1286
+  s_2bf2dd7bb9ae8a::t_8b4f020a25dd04 1277
+  s_2bf2dd7bb9ae8a::t_87356200a28975 1298-1299
+src/packages/progress/doc.taro.md
+  s_2623122ec93a9c::t_d0473161b15901 152,155,158-160
+  s_2bf2dd7bb9ae8a::t_17b5b5f2953a0d 85
+  s_2623122ec93a9c::t_4aa53cf6f021bc 157,164-166
+  s_2bf2dd7bb9ae8a::t_a208af98371895 95
+  s_2bf2dd7bb9ae8a::t_60613330b83b49 131
+  s_2623122ec93a9c::t_14da0ba280a303 83-84,86-93,96-97,118-130,153-154,167-168
+  s_2bf2dd7bb9ae8a::t_63dec0c1f92dab 156,161-163
+src/packages/progress/demos/taro/demo10.tsx
+  s_2623122ec93a9c::t_fa138cab040212 1,4,6-18,20,22-36,38-45
+  s_2bf2dd7bb9ae8a::t_7f9fff5e449c0d 3,37
+  s_2623122ec93a9c::t_4020598bd93494 2,5,19,21,46-48
+src/packages/progress/progress.tsx
+  s_2623122ec93a9c::t_bb93c10d4a446b 1-10,23-28,31-37,60-72,121,153,169-180,182-183,185,192-206,209-332,334-355,357-360,362-367
+  s_2bf2dd7bb9ae8a::t_0d032da36d76bb 181,184
+  s_2623122ec93a9c::t_2e43f65e71c483 207-208
+  s_2bf2dd7bb9ae8a::t_b23ab544f7a1d2 333,356,361
+  s_2623122ec93a9c::t_5a265e151f86bb 39-40
+src/packages/progress/doc.zh-TW.md
+  s_2bf2dd7bb9ae8a::t_0789eb67fa0784 156-158
+  s_2623122ec93a9c::t_0d6735a2c32fd1 152,159-161
+  s_2623122ec93a9c::t_29b29ea61142aa 147,150,153-155
+  s_2bf2dd7bb9ae8a::t_74cc6321025f08 85
+  s_2bf2dd7bb9ae8a::t_c0e0a74907c280 126
+  s_2bf2dd7bb9ae8a::t_3966242d8be026 151
+  s_2623122ec93a9c::t_68d013b1c5973c 83-84,86-92,113,115-125,148-149,162-163
+  s_2bf2dd7bb9ae8a::t_df83717d94ea2d 114
+src/packages/progress/doc.en-US.md
+  s_2623122ec93a9c::t_2dbfce8b5a5571 147,150,153-155
+  s_2bf2dd7bb9ae8a::t_2347a65cf19c09 126
+  s_2bf2dd7bb9ae8a::t_d5858777d2c7d9 114
+  s_2bf2dd7bb9ae8a::t_ee2d6176db63c0 85
+  s_2bf2dd7bb9ae8a::t_6fb97cd2c9a086 151
+  s_2bf2dd7bb9ae8a::t_d9a0f14d9d78ba 156-158
+  s_2623122ec93a9c::t_6671db2df95d75 152,159-161
+  s_2623122ec93a9c::t_ba041f89ac22ea 83-84,86-92,113,115-125,148-149,162-163
+src/styles/variables-jrkf.scss
+  s_2623122ec93a9c::t_6dfcf3e9c6c8e8 2205-2208,2232-2234,2236-2243
+  s_2623122ec93a9c::t_5fcd515d8c94d9 2188-2189,2191-2199,2201-2202,2204,2212,2227,2244-2252
+  s_2623122ec93a9c::t_85174427de9225 2223,2231
+  s_2623122ec93a9c::t_db03bf29730a86 2203
+  s_2bf2dd7bb9ae8a::t_b669310d3eabaf 2211
+  s_2bf2dd7bb9ae8a::t_4771812e620118 2253-2256
+  s_2bf2dd7bb9ae8a::t_7f6ca048d5cf75 2235
+  s_2623122ec93a9c::t_dd095e9a989bf7 2190,2200,2209-2210,2213-2222,2224-2226,2228-2230
+src/styles/variables-jmapp.scss
+  s_2623122ec93a9c::t_5b236073794695 2096
+  s_2623122ec93a9c::t_82940b13889d47 2116,2124
+  s_2bf2dd7bb9ae8a::t_0b3734598d4d80 2146-2149
+  s_2bf2dd7bb9ae8a::t_cf53c4017c9e29 2083,2087
+  s_2bf2dd7bb9ae8a::t_4420ad8d13088f 2128
+  s_2623122ec93a9c::t_d30066ec41823e 2081-2082,2084-2086,2088-2092,2094-2095,2097,2105,2120,2137-2145
+  s_2bf2dd7bb9ae8a::t_7b5f09027a9452 2104
+  s_2623122ec93a9c::t_7f5cd9cce473c1 2098-2101,2125-2127,2129-2136
+  s_2623122ec93a9c::t_56f894081e0b0b 2093,2102-2103,2106-2115,2117-2119,2121-2123
+src/packages/progress/progress.scss
+  s_2623122ec93a9c::t_26c6c61c8b1fcf 62-64,67-70,72-85,87-97,102-113,119,122,127-129,134-135,142-151,158-170
+  s_2bf2dd7bb9ae8a::t_754b635df98d8c 65-66
+  s_2623122ec93a9c::t_be915e335dcd30 98-101
+  s_2623122ec93a9c::t_d0a15da87e09b0 114-116,121
+  s_2623122ec93a9c::t_27c9d9c4c62261 117-118,120,123-126,130-132
+  s_2bf2dd7bb9ae8a::t_cd13126479f8ba 86
+  s_2623122ec93a9c::t_e0e28aaade092a 136-141
+  s_2bf2dd7bb9ae8a::t_265021b7343240 152-157
+  s_2623122ec93a9c::t_8928093f49cb5b 133
+  s_2bf2dd7bb9ae8a::t_eb6fd2bac623d5 71
+src/packages/progress/demos/h5/demo10.tsx
+  s_2623122ec93a9c::t_6328a1c730bb3c 1,4,6-10,16,18-44
+  s_2623122ec93a9c::t_71f7cdf4551079 2-3,15,17,45-47
+src/styles/variables.scss
+  s_2623122ec93a9c::t_b53cf3dfec2e3f 2074
+  s_2bf2dd7bb9ae8a::t_500db31667f255 2124-2127
+  s_2bf2dd7bb9ae8a::t_96bdd055e47ed8 2082
+  s_2bf2dd7bb9ae8a::t_08fcee95cecabb 2106
+  s_2623122ec93a9c::t_737f2ecba0b33e 2076-2079,2103-2105,2107-2114
+  s_2bf2dd7bb9ae8a::t_0aa41dd2b28d74 2061,2065
+  s_2623122ec93a9c::t_42d8f4c37f395a 2094,2102
+  s_2623122ec93a9c::t_a44d5e16c224d6 2071,2080-2081,2084-2093,2095-2097,2099-2101
+  s_2623122ec93a9c::t_0a51daea61b87a 2059-2060,2062-2064,2066-2070,2072-2073,2075,2083,2098,2115-2123
+src/types/spec/progress/base.ts
+  s_2623122ec93a9c::t_235ef28d187e89 1,4-6,22,24,26,28,30,32,34,36,38,40,42,44,46
+  s_2bf2dd7bb9ae8a::t_dd47886a3ef0f1 23,25,27,29,31,33,35,37,39,41,43,45
+src/packages/configprovider/types.ts
+  s_2623122ec93a9c::t_28ccb89f557272 699,706-708
+  s_2623122ec93a9c::t_b10abecda47985 700-705
+  s_2623122ec93a9c::t_47760e302a62d9 694-698,709-710
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "302c4af40a4c19c37413da26b686396274cdce4f",
+  "prompts": {},
+  "sessions": {
+    "s_2623122ec93a9c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a69fe848-27da-4d7c-8e98-4f10722b6d3f",
+        "model": "mco-5"
+      },
+      "human_author": "ext.wangqi150 <664144354@qq.com>"
+    },
+    "s_2bf2dd7bb9ae8a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d54b072-ce7c-4d95-9614-57be6627698d",
+        "model": "mco-5"
+      },
+      "human_author": "ext.wangqi150 <664144354@qq.com>"
+    }
+  }
+}
